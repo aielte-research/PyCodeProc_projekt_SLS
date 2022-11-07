@@ -7,6 +7,8 @@ A PyProcProjekt_adatkinyeres.ipynb a kaggle.com/datasets/stackoverflow/pythonque
 
 A PyProcProjekt_modell.ipynb a PyCodes.json címkéit one-hot vektorokká alakítja, a kiválogatott kódrészleteket tokenizálja, végül klasszifikációt tanul.
 
-TODO:\\
-A PyProcProjekt_adatkinyeres.ipynb még bőven tele van szeméttel.\\
+TODO:
+
+A PyProcProjekt_adatkinyeres.ipynb még bőven tele van szeméttel.
+
 A PyProcProjekt_modell.ipynb meg nem működik :))
